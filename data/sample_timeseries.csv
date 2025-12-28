@@ -1,0 +1,9 @@
+ts,tag,value
+2024-01-01T00:00:00,cycle_signal,1
+2024-01-01T00:00:10,cycle_signal,0
+2024-01-01T00:00:20,cycle_signal,1
+2024-01-01T00:00:30,cycle_signal,0
+2024-01-01T00:01:00,energy_kwh,14.2
+2024-01-01T00:02:00,energy_kwh,13.8
+2024-01-01T00:03:00,alarm_status,1
+2024-01-01T00:03:05,alarm_status,0
